@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "McLennan-Redpath Library",
+    "address": "3459 McTavish St, Montreal, QC H3A 0C9",
+    "google_place_id": "",
+    "type": "library",
+    "lat": 45.5048,
+    "lng": -73.5772
+  },
+  {
+    "id": 2,
+    "name": "Schulich Library of Science and Engineering",
+    "address": "809 Sherbrooke St W, Montreal, QC H3A 0C1",
+    "google_place_id": "",
+    "type": "library",
+    "lat": 45.5054,
+    "lng": -73.5768
+  },
+  {
+    "id": 3,
+    "name": "Islamic Studies Library",
+    "address": "3485 McTavish St, Montreal, QC",
+    "google_place_id": "",
+    "type": "library",
+    "lat": 45.5053,
+    "lng": -73.5775
+  },
+  {
+    "id": 4,
+    "name": "Trottier Building",
+    "address": "3630 University St, Montreal, QC H3A 2B2",
+    "google_place_id": "",
+    "type": "study_space",
+    "lat": 45.5059,
+    "lng": -73.5776
+  },
+  {
+    "id": 5,
+    "name": "Starbucks - McGill",
+    "address": "3505 Rue McTavish, Montreal, QC H3A 0C3",
+    "google_place_id": "",
+    "type": "cafe",
+    "lat": 45.5058,
+    "lng": -73.5774
+  },
+  {
+    "id": 6,
+    "name": "Second Cup - McGill",
+    "address": "3550 McTavish St, Montreal, QC",
+    "google_place_id": "",
+    "type": "cafe",
+    "lat": 45.5055,
+    "lng": -73.5771
+  },
+  {
+    "id": 7,
+    "name": "680 Sherbrooke",
+    "address": "680 Sherbrooke Street West, Montreal, Quebec, Canada H3A 2M7",
+    "google_place_id": "",
+    "type": "study_space",
+    "lat": 45.50472,
+    "lng":  -73.57342
+  },
+  {
+    "id": 8,
+    "name": "SSMU Building",
+    "address": "3480 McTavish St, Montreal, QC H3A 0E7",
+    "google_place_id": "",
+    "type": "study_space",
+    "lat": 45.5047,
+    "lng": -73.5765
+  },
+  {
+    "id": 9,
+    "name": "Otto Maass Chemistry Building",
+    "address": "801 Sherbrooke St W, Montreal, QC H3A 0B8",
+    "google_place_id": "",
+    "type": "study_space",
+    "lat": 45.5054,
+    "lng": -73.5765
+  },
+  {
+    "id": 10,
+    "name": "Leacock Building",
+    "address": "855 Sherbrooke St W, Montreal, QC H3A 2T7",
+    "google_place_id": "",
+    "type": "study_space",
+    "lat": 45.5049,
+    "lng": -73.5753
+  }
+]
